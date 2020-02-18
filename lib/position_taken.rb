@@ -5,4 +5,5 @@ def position_taken?(board, index)
     puts "this is true"
   else
     nil
+  end
 end
